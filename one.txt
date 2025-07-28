@@ -2,3 +2,4 @@ Big data and Analytics
 Hadoop
 AWS Infrastructure
 
+Hive Data Warehouse
